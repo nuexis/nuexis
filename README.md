@@ -10,10 +10,10 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/nuexis__/">
-        <img src="https://img.shields.io/badge/Instagram-E6E6FA ?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-AADDCC?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:ssing_726@naver.com">
-        <img src="https://img.shields.io/badge/Mail-F5FFFA?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Mail-99BBFF?style=for-the-badge&logo=Mail&logoColor=white"> 
     </a>
 </div><br>
 
