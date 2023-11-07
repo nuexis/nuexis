@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Instagram-AADDCC?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:ssing_726@naver.com">
-        <img src="https://img.shields.io/badge/Mail-FF6666?style=for-the-badge&logo=Mail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Mail-FC9595?style=for-the-badge&logo=Mail&logoColor=white"> 
     </a>
 </div><br>
 
