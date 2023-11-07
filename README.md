@@ -6,6 +6,12 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuexis&count_bg=%23E6E6FA&title_bg=%23E6E6FA&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/nuexis)
 
 [![SIEUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuexis&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nuexis/github-readme-stats)
+export default function HeaderColor(props) {
+  const [gradient, setGradient] = useState(180);
+  const [textcolor, setTextcolor] = useState("ffffff");
+  const [textcolor, setTextcolor] = useState("000000");
+  const [color, setColor] = useState("000000");
+  const [color2, setColor2] = useState("");
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
