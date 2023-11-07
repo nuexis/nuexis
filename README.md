@@ -7,8 +7,6 @@
 
 [![SIEUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuexis&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
-
 <!--
 **nuexis/nuexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
